@@ -1,6 +1,6 @@
 # Check out the live site here:-
 
-https://netflix-clone-anikxt.vercel.app
+https://drishyam-six-chi.vercel.app
 
 </br>
 
